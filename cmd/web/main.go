@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Ryanwalshe/bookings/config"
+	"github.com/Ryanwalshe/bookings/pkg/config"
 	"github.com/Ryanwalshe/bookings/pkg/handlers"
 	"github.com/Ryanwalshe/bookings/pkg/render"
 	"github.com/alexedwards/scs/v2"
